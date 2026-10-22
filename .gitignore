@@ -24,3 +24,5 @@ desktop.ini
 # Local audit review copies
 BR001_Audit_Review/
 BR001_Audit_Review.zip
+# Notebook backups
+*.ipynb.bak
