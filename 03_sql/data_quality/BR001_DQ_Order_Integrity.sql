@@ -516,6 +516,3 @@ SELECT
 FROM group_profile
 GROUP BY candidate_key
 ORDER BY conflicting_groups DESC;
-
-
-

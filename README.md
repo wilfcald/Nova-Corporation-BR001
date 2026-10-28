@@ -76,4 +76,3 @@ Downstream descriptive analysis, diagnostic business analysis, executive recomme
 Nova Corporation is fictional, and the dataset is synthetic. Business clarifications and stakeholder documentation form part of the simulated corporate project environment.
 
 **The objective is to demonstrate a reproducible, transparent, and evidence-based approach to preparing business data for reliable analysis.**
-

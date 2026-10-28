@@ -349,5 +349,3 @@ The analytical phase may begin only when:
 - Confirm implementation of CL-001 through CL-007.
 - Complete the technical review checklist.
 - Record the simulated execution authorization.
-
-
